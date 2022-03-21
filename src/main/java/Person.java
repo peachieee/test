@@ -6,7 +6,7 @@ public class Person {
     }
 
     public String getName() {
-        return "The person is " + name;
+        return "The person is test " + name;
     }
 
     @Override
